@@ -1,0 +1,28 @@
+{
+  "name": "tareasporhacer",
+  "version": "0.0.1",
+  "description": "proyecto administrador de tareas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngWilliamMendoza/tareasPorHacer.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "william armando mendoza hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngWilliamMendoza/tareasPorHacer/issues"
+  },
+  "homepage": "https://github.com/IngWilliamMendoza/tareasPorHacer#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^9.0.1",
+    "uuid": "^8.3.2"
+  }
+}
